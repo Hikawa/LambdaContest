@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaContest", "LambdaContest\LambdaContest.csproj", "{E463D310-B600-4746-9413-BE7C8BD794BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punter", "Punter\Punter.csproj", "{5375F667-3105-4FA0-AF4D-42C63E978B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puns", "Puns\Puns.csproj", "{BCA6DED3-6CD5-4F1A-866D-040599F2953B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E463D310-B600-4746-9413-BE7C8BD794BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E463D310-B600-4746-9413-BE7C8BD794BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E463D310-B600-4746-9413-BE7C8BD794BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E463D310-B600-4746-9413-BE7C8BD794BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5375F667-3105-4FA0-AF4D-42C63E978B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5375F667-3105-4FA0-AF4D-42C63E978B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5375F667-3105-4FA0-AF4D-42C63E978B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5375F667-3105-4FA0-AF4D-42C63E978B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA6DED3-6CD5-4F1A-866D-040599F2953B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA6DED3-6CD5-4F1A-866D-040599F2953B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA6DED3-6CD5-4F1A-866D-040599F2953B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA6DED3-6CD5-4F1A-866D-040599F2953B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
